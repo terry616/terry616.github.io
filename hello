@@ -9,3 +9,4 @@ public static void func1() {
 	System.out.println("this is a func1");
 }
 
+zhu
